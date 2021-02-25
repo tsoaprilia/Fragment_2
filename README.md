@@ -20,7 +20,7 @@ Fragment juga bisa disebut sub nya activity (Sebuah fragment harus berada di dal
 
 Fragment memiliki sirkulasi kehidupan atau yang biasanya disebut “lifecycle”, seperti yang ditunjukkan pada Gambar  di bawah ini :
 
-![fragnen](https://user-images.githubusercontent.com/60412314/109186437-7fb79d80-77c3-11eb-9f44-bb54e2175e16.jpg)
+![0EVReuq](https://user-images.githubusercontent.com/60412314/109187982-0325be80-77c5-11eb-8e0e-c9cb9907ae22.png)
 
 1. onAttach() dipanggil saat sebuah fragment terhubung ke activity.
 2. onCreate() diapnggil saat sebuah fragment dibuat (objeknya di memori).
