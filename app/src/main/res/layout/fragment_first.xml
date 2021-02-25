@@ -2,14 +2,21 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/colorPrimary"
+    android:background="@drawable/satu"
     android:orientation="vertical">
 
     <TextView
         android:id="@+id/text"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="First Fragment"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="160dp"
+        android:layout_marginRight="20dp"
+        android:fontFamily="casual"
+        android:text="Seberat apapun masalah dan beban yang sedang berusaha menahan langkahmu, sekeras apapun mereka menggunjingmu. Tetap melangkahlah…"
+        android:textAlignment="center"
+        android:textSize="12pt"
+        android:textStyle="italic|bold"
         android:textColor="#FFF" />
 
 </LinearLayout>
