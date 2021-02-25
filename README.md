@@ -10,7 +10,7 @@ Fragment juga bisa disebut sub nya activity (Sebuah fragment harus berada di dal
 2.	Dukungan Untuk Tablet : Fragment memungkinkan activity untuk menggunakan fragment dalam membuat antarmuka sesuai dengan perangkat yang membukanya.
 3.	Orientasi Layar : Fragment memungkinkan  untuk menggunakan tampilan yang berbeda( horizontal atau vertikal) menggunakan elemen yang sama.
 
-# Keuntungan Menggunakan Fragmen 
+# Keuntungan Menggunakan Fragment 
 
 1.Tidak perlu memasukkan nama file fragment ke dalam “AndroidManifest” yang diperlukan oleh activity.
 
